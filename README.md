@@ -7,7 +7,8 @@ Plex Media Server
 ![](https://nyro.ovh/wp-content/uploads/2017/12/plex_wallpaper_011-1040x585.jpg)
 
 
-[![Install Plex with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=plex)
+[![Integration level](https://dash.yunohost.org/integration/plexmediaserver.svg)](https://ci-apps.yunohost.org/jenkins/job/plexmediaserver%20%28Community%29/lastBuild/consoleFull)  
+[![Install plexmediaserver with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=plexmediaserver)
 
 ### Installing guide
 
